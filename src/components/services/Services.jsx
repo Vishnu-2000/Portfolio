@@ -183,6 +183,13 @@ the industry standards.
             <li>
               <IoMdCheckmark className='service__list-icon'/>
               <p>
+              Perform Data Test on Dashboards to check the consistency of data between database and dashboards.
+              </p>
+            </li>
+
+            <li>
+              <IoMdCheckmark className='service__list-icon'/>
+              <p>
               Manage large datasets with functions: IF, SUM, INDEX, MATCH, VLOOKUP
               </p>
             
