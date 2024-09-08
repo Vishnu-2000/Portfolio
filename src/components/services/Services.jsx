@@ -16,49 +16,51 @@ const Services = () => {
       <div className="container services__container">
         <article className='service'>
           <div className="service__head">
-            <h3>Data Loading/ Ingestion</h3>
+            <h3>Data Engineering</h3>
           </div>
 
           <ul className='service__list'>
             <li>
               <IoMdCheckmark className='service__list-icon'/>
               <p>
-              Bulk loading from external stage, internal stage to Snowflake cloud using the COPY command.
+              Developed and maintained data pipelines using Snowflake, improving data processing efficiency.
               </p>
             </li>
 
             <li>
               <IoMdCheckmark className='service__list-icon'/>
               <p>
-              Loading data into Snowflake tables using snowql.
+              Designed and implemented ETL processes to integrate data from multiple sources, ensuring data accuracy and
+consistency.
               </p>
             </li>
 
             <li>
               <IoMdCheckmark className='service__list-icon'/>
               <p>
-              Use COPY, LIST, PUT and GET commands for validating the internal stage files.
+              Optimized Snowflake queries and database performance, leading to a reduction in query execution time.
               </p>
             </li>
 
             <li>
               <IoMdCheckmark className='service__list-icon'/>
               <p>
-              Take backup of the existing tables to secure the data from getting corrupted before manipulations.
+              Created and managed Snowflake tasks and streams to automate data loading and transformation processes.
               </p>
             </li>
 
             <li>
               <IoMdCheckmark className='service__list-icon'/>
               <p>
-              Use FLATTEN table function to produce a lateral view of OBJECT and ARRAY column.
+              Collaborated with data analysts to understand data requirements and deliver actionable insights.
               </p>
             </li>
 
             <li>
               <IoMdCheckmark className='service__list-icon'/>
               <p>
-              Export Result set to Microsoft Excel as Comma Separated Values file.
+              Developed SQL code and created materialized views for feeding the data to the Visualization team while following
+the industry standards.
               </p>
             </li>
           </ul>
@@ -145,14 +147,14 @@ const Services = () => {
             <li>
               <IoMdCheckmark className='service__list-icon'/>
               <p>
-              Use CData ODBC driver for Snowflake to import data in Excel with Microsoft Query
+              Use ODBC driver for Snowflake to import data in Excel and transforming the data using PowerQuery.
               </p>
             </li>
 
             <li>
               <IoMdCheckmark className='service__list-icon'/>
               <p>
-              Use MS Excel to organize company data and budget reports into detailed pivot tables
+              Use MS Excel to organize company data and budget reports into detailed pivot tables.
               
               </p>
             </li>
