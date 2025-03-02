@@ -22,7 +22,7 @@ const About = () => {
             <article className='about__card'>
               <LiaAwardSolid className='about__icon'/>
               <h5>Experience</h5>
-              <small>2+ Years Working</small>
+              <small>2.3 Years Project Experience</small>
             </article>
 
             <article className='about__card'>
@@ -39,7 +39,7 @@ const About = () => {
           </div>
           <p>
           {/* Seeking a beginner role to enhance and explore my technical knowledge gained in my education in B.E. and a year in IT industry. Aiming to leverage my abilities to successfully fill required role at your company. I can be relied upon to achieve the goals set with perfection and in time. */}
-          Dynamic and results-driven Snowflake ETL Developer with 2 years of hands-on experience in designing, developing, and optimizing data pipelines within the Snowflake environment. Proficient in crafting robust ETL solutions tailored to business needs, leveraging Snowflake's powerful capabilities. Skilled in SQL, Python, and other ETL tools, adept at transforming raw data into actionable insights efficiently. Proven ability to collaborate cross-functionally, translating complex requirements into scalable and efficient ETL workflows. Committed to staying abreast of emerging trends and technologies in data engineering to drive continuous improvement and deliver value-added solutions.
+          Dynamic and results-driven Snowflake Certified Data Engineer Professional with 2.3 years of hands-on experience in designing, developing, and optimizing data pipelines within the Snowflake environment. Proficient in crafting robust ETL solutions tailored to business needs, leveraging Snowflake's powerful capabilities. Skilled in SQL, Python, and other ETL tools, adept at transforming raw data into actionable insights efficiently. Proven ability to collaborate cross-functionally, translating complex requirements into scalable and efficient ETL workflows. Committed to staying abreast of emerging trends and technologies in data engineering to drive continuous improvement and deliver value-added solutions.
           </p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
