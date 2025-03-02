@@ -19,7 +19,7 @@ const data=[
   {
     avatar : AVTR1,
     name : 'Snowflake SnowPro Core Certification',
-    review : 'This certification offers the foundation you need to build your technical skills to start working with data in the cloud. Mastering the basics can help you jump-start your career and prepare you to dive deeper into other technical opportunities Azure offers.'
+    review : "'A SnowPro certification, which is a Snowflake certification, is primarily used to validate an individual's expertise in using the Snowflake cloud data platform, demonstrating their ability to perform tasks like data modeling, data analysis, data engineering, and system administration within the Snowflake environment.'"
   },
   {
     avatar : AVTR2,
