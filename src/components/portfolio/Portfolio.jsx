@@ -41,7 +41,7 @@ const data = [
     image : IMG5,
     title : 'Chess Game',
     github : 'https://github.com/Vishnu-2000/Chess-Game',
-    demo : 'https://65f7e9a5a4d5652b636a2d2a--genuine-empanada-658c5d.netlify.app/chess.html?'
+    demo : 'https://lambent-stardust-e77d7f.netlify.app/'
   },
   {
     id:6,
